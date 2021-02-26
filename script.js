@@ -13,3 +13,5 @@ function calc() {
 
 }
 
+document.getElementById("bg")
+ .style.backgroundColor = "skyblue"
